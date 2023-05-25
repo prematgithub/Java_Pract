@@ -1,0 +1,16 @@
+/.classpath
+/.project
+/.settings/
+/Repository/
+/ScreenShots/
+/firstPacakage/
+/log4j.properties
+/logFiles/
+/logicalProgram/
+/pom.xml
+/secondPackage/
+/target/
+/test-output/
+/testNGPackage/
+/testng.xml
+/true
